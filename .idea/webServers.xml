@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="47e94777-a889-4050-8a34-d976e7cba062" name="symfony" url="http://symfony">
-        <fileTransfer host="symfony" port="22" privateKey="C:\Users\matt\.ssh\id_rsa" rootFolder="/var/www/symfony" accessType="SFTP" keyPair="true">
+        <fileTransfer host="symfony" port="22" privateKey="C:\Users\inMarket Media\.ssh\id_rsa_priv_openssh" rootFolder="/var/www/symfony" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

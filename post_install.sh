@@ -6,3 +6,5 @@ chmod 777 /var/www/symfony/var/logs
 
 mkdir /var/www/symfony/var/sessions/prod
 chmod 777 /var/www/symfony/var/sessions/prod
+
+a2enmod rewrite
