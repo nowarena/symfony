@@ -21,7 +21,7 @@ class IndexController
         $obj = new Base(2);
 
         return new Response(
-            '<html><body>' . " " . $obj->val . ' Lucky number: '.$number.'</body></html>'
+            '<html><body>' . ' ' . $obj->val . ' Lucky number: '.$number.'</body></html>'
         );
     }
 }
